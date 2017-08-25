@@ -17,14 +17,14 @@ function logWhisper(string) {
 
 var sayHiToGrandma = 'hello'
 
-function sayHiToGrandma(string) {
+
   if (sayHiToGrandma === "hello") {
     return "I can't hear you!"
   }
-  if (sayHiToGrandma === "HELLO") {
+  elseif (sayHiToGrandma === "HELLO") {
     return "YES INDEED!"
   }
-  if (sayHiToGrandma === "I love you Grandma") {
+  else (sayHiToGrandma === "I love you Grandma") {
     return "I love you, too!"
   }
-}
+
