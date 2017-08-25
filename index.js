@@ -19,11 +19,11 @@ var sayHiToGrandma = 'hello'
 
 
   if (sayHiToGrandma === "hello") {
-    return "I can't hear you!"
+    console.log("I can't hear you!")
   }
   elseif (sayHiToGrandma === "HELLO") {
-    return "YES INDEED!"
+    console.log("YES INDEED!")
   }
   else (sayHiToGrandma === "I love you Grandma") {
-    return "I love you, too!"
+    console.log("I love you, too!")
   }
