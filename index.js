@@ -27,4 +27,3 @@ var sayHiToGrandma = 'hello'
   else (sayHiToGrandma === "I love you Grandma") {
     return "I love you, too!"
   }
-
