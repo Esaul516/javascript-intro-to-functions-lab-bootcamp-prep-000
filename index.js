@@ -16,10 +16,6 @@ function logWhisper(string) {
 
 //var shout = 'HELLO'
 //var whisper = 'hello'
-//var sayHiToGrandma = 
+//var sayHiToGrandma =
 
 //function sayHiToGrandma(string) {
-
-
-
-  
